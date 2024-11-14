@@ -5,7 +5,7 @@
 
 - 👯 I’m looking to collaborate on [uni-assistant](https://github.com/ShivangVora1206/uni-assistant)
 
-- 👨‍💻 I have showcased some of my projects at [https://portfolio-app-ten-teal.vercel.app/](https://shivangvora.vercel.app/)
+- 👨‍💻 I have showcased some of my projects at [https://shivangvora.vercel.app/](https://shivangvora.vercel.app/)
 
 - 💬 Ask me about **python, java, JS, TS, react, redux, tailwind**
 
